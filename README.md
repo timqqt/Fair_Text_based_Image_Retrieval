@@ -6,5 +6,12 @@ We address the challenge of generating fair and unbiased image retrieval results
 
 Occupation 1 can be acquired [here](https://github.com/mjskay/gender-in-image-search) and Occupation 2 can be downloaded from  [here](https://drive.google.com/drive/folders/1j9I5ESc-7NRCZ-zSD0C6LHjeNp42RjkJ?usp=drive_link). MS-COCO is available from [here](https://cocodataset.org/#home). Flickr30k dataset can be access via [here](https://shannon.cs.illinois.edu/DenotationGraph/.)
 
+## Setup Environment
+
+~~~
+pip install -r requirements.txt
+~~~
+
+
 ## Running the code
 - reproduce our results using Debias_notebook.ipynb
