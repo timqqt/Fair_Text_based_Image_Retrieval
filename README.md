@@ -1,3 +1,3 @@
-# Fair_Text_based_Image_Retrieval
+# Mitigating Test-time Bias for Fair Image Retrieval
 
 - reproduce our results using Debias_notebook.ipynb
