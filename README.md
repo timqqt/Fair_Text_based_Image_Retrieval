@@ -18,5 +18,4 @@ pip install -r requirements.txt
 ## Running the code
 - reproduce our results using Debias_notebook.ipynb
 
-## Benchmark evaluation results
 
