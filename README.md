@@ -9,6 +9,8 @@ Occupation 1 can be acquired [here](https://github.com/mjskay/gender-in-image-se
 ## Set up environment
 
 ~~~
+conda create --name fairIR
+conda activate fairIR
 pip install -r requirements.txt
 ~~~
 
