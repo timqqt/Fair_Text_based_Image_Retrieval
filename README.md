@@ -11,6 +11,8 @@ Occupation 1 can be acquired [here](https://github.com/mjskay/gender-in-image-se
 ~~~
 conda create --name fairIR
 conda activate fairIR
+git clone https://github.com/xxxx/Fair_Text_based_Image_Retrieval.git #currently not supported
+cd Fair_Text_based_Image_Retrieval
 pip install -r requirements.txt
 ~~~
 
